@@ -1,0 +1,21 @@
+.satu {
+boxborder-me;
+box-shadow: 0 0 0 5px darkturquoise;
+outline: dotted 5px firebrick;
+width: 200px;
+height: 200px;
+}
+.dua {
+outline-style: solid;
+outline-color: forestgreen;
+width: 200px;
+height: 200px;
+position: relative;
+}
+.tiga {
+box-shadow: 0 0 0 8px darkturquoise;
+outline: dashed 5px blue;
+outline-width: 8px;
+width: 200px;
+height: 200px;
+}
